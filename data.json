@@ -1,0 +1,9 @@
+{
+  "postList": [
+    {
+      "title": "Test Post",
+      "category": ["Python", "Java", "JavaScript"]
+    }
+  ],
+  "categoryList": ["Python", "Java", "JavaScript"]
+}
